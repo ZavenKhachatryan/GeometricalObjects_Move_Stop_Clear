@@ -1,0 +1,1 @@
+# GeometricalObjects_Move_Stop_Clear
